@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+## `whoami` <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 **CSE (AI & ML) student** focused on **Robotics, Autonomous Systems, AI & Computer Vision**.
 
