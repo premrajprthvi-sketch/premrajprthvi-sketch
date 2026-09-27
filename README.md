@@ -2,7 +2,8 @@
 
 # `> Prem Prithvi Raj`
 
-</div>
+<div align="center">
+
 ### Building machines that can sense, decide, and move.
 
 **CSE (AI & ML) Student · Robotics · Autonomous Systems · Embedded AI**
