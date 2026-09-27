@@ -38,106 +38,106 @@ Currently exploring: `ROS 2` · `SLAM` · `Navigation` · `Multi-Robot Systems`
 
 <table>
 <tr>
-<td align="center" width="180">
 
-### 🤖
-**ROBOTICS**
+<td width="25%" align="center">
 
-### `04+`
+<h3>🤖</h3>
+<h3>Robotics</h3>
 
-Autonomous Robots  
-AMR • Motor Control • Navigation
+<img src="https://img.shields.io/badge/Projects-04+-brightgreen?style=for-the-badge">
 
-</td>
-
-<td align="center" width="180">
-
-### 🔌
-**EMBEDDED**
-
-### `06+`
-
-Arduino • ESP32  
-Raspberry Pi • Sensors
+<p>AMR<br>Autonomous Robots<br>Motor Control</p>
 
 </td>
 
-<td align="center" width="180">
+<td width="25%" align="center">
 
-### 🚁
-**AUTONOMOUS**
+<h3>🔌</h3>
+<h3>Embedded Systems</h3>
 
-### `03+`
+<img src="https://img.shields.io/badge/Projects-06+-blue?style=for-the-badge">
 
-Drones • ArduPilot  
-Autonomous Systems
+<p>Arduino<br>ESP32<br>Raspberry Pi</p>
+
+</td>
+
+<td width="25%" align="center">
+
+<h3>🚁</h3>
+<h3>Autonomous Systems</h3>
+
+<img src="https://img.shields.io/badge/Projects-03+-orange?style=for-the-badge">
+
+<p>Drones<br>ArduPilot<br>Navigation</p>
 
 </td>
 
-<td align="center" width="180">
+<td width="25%" align="center">
 
-### 🧠
-**AI / ML**
+<h3>🧠</h3>
+<h3>AI / ML</h3>
 
-### `03+`
+<img src="https://img.shields.io/badge/Projects-03+-purple?style=for-the-badge">
 
-Machine Learning  
-Computer Vision • AI
+<p>Machine Learning<br>Computer Vision<br>AI Applications</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### 🐍
-**PYTHON**
+<td width="25%" align="center">
 
-### `05+`
+<h3>🐍</h3>
+<h3>Python</h3>
 
-Automation  
-Algorithms • AI
+<img src="https://img.shields.io/badge/Projects-05+-yellow?style=for-the-badge">
 
-</td>
-
-<td align="center">
-
-### 💻
-**C / C++**
-
-### `06+`
-
-Embedded Programming  
-Data Structures • OOP
+<p>Automation<br>Algorithms<br>AI</p>
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 📡
-**IOT**
+<h3>💻</h3>
+<h3>C / C++</h3>
 
-### `02+`
+<img src="https://img.shields.io/badge/Projects-06+-red?style=for-the-badge">
 
-Wireless Systems  
-Sensors • Communication
+<p>Embedded<br>OOP<br>Data Structures</p>
+
+</td>
+
+<td width="25%" align="center">
+
+<h3>📡</h3>
+<h3>IoT</h3>
+
+<img src="https://img.shields.io/badge/Projects-02+-teal?style=for-the-badge">
+
+<p>Sensors<br>Communication<br>Connected Systems</p>
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 🛠️
-**SYSTEMS**
+<h3>🛠️</h3>
+<h3>Systems</h3>
 
-### `05+`
+<img src="https://img.shields.io/badge/Projects-05+-grey?style=for-the-badge">
 
-ROS 2 • Linux  
-Hardware Integration
+<p>ROS 2<br>Linux<br>Hardware Integration</p>
 
 </td>
+
 </tr>
 </table>
 
-### `20+` Projects & Experiments · `8` Domains · Hardware + Software
+<br>
+
+<img src="https://img.shields.io/badge/TOTAL_PROJECTS-20%2B-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/DOMAINS-08-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/HARDWARE-ARDUINO%20%7C%20ESP32%20%7C%20RASPBERRY%20PI-181717?style=for-the-badge">
 
 </div>
