@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Prem+Prithvi+Raj;Robotics+%7C+AI+%7C+Autonomous+Systems;Building+machines+that+can+sense%2C+decide%2C+and+move.">
-
 </div>
 
 # `> Prem Prithvi Raj`
