@@ -142,3 +142,15 @@ Currently exploring: `ROS 2` · `SLAM` · `Navigation` · `Multi-Robot Systems`
 <img src="https://img.shields.io/badge/HARDWARE-ARDUINO%20%7C%20ESP32%20%7C%20RASPBERRY%20PI-181717?style=for-the-badge">
 
 </div>
+
+---
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/premrajprthvi-sketch/premrajprthvi-sketch/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
